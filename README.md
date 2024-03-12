@@ -1,5 +1,18 @@
-# Dust
+# Relationship Advice App
+# Overview
+This is a Relationship Advice App that provides suggestions based on the user's gender and randomly generated actions. The app determines whether these actions are considered "dust" or "no dust" according to predefined criteria.
 
-# Dust or No Dust App
+The app is built using React.js for the frontend and Python for the backend logic.
 
-Welcome to the Dust or No Dust App! This is a simple React.js application that allows users to input their gender and action, providing a result based on the entered values.
+# Features
+Gender Input: Users are prompted to enter their gender (male/female).
+
+Random Action Generation: The app generates a random action based on the user's gender.
+
+Result Display: The app displays the generated action and whether it is considered "dust" or "no dust."
+
+# License
+This project is licensed under the MIT License
+
+# Contributing
+If you have ideas for improvements or new features, feel free to contribute! Please create a pull request, and we'll review your changes.
