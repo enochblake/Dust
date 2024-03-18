@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 import './App.css'; // Import the default CSS file created by Create React App
+import { SpeedInsights } from "@vercel/speed-insights/react"
 
 function App() {
   const [gender, setGender] = useState('');
